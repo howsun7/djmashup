@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=djmashup
+POSTGRES_USER=FXhKUVTRRfdHPrAzKfEgxdACmYQzASpL
+POSTGRES_PASSWORD=teId5uxUMkzt6hMZ90q98Q45GuA3zLpKJl2Y6vwL9yWQe1g5j55VzTF8pahU1h2u
